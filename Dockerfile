@@ -11,4 +11,4 @@ RUN apt-get update \
 
 COPY . .
 
-CMD ["python", "bot.py"]
+CMD ["python", "beatrice_telegram_music_bot.py"]
